@@ -17,20 +17,20 @@ sugerindo conhecimento e a melhor experiência na
 tomada de decisão.
 
 <p align="left">
-<!--     <a href="https://www.youtube.com/@adodud?sub_confirmation=1">
+<!--      <a href="https://linkedin.com/in/adroaldo-pereira-2a9876140/@AdroaldoPereira?sub_confirmation=1">
         <img 
-            alt="Inscritos" 
+            alt="Linkedin" 
             title="Inscreva-se" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+            src="[https://custom-icon-badges.demolab.com/Linkedin/channel/My Linkedin/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=007BFF](https://www.linkedin.com/in/adroaldo-pereira-2a9876140/)"
+        /> -->
     </a> 
-    <a href="https://www.youtube.com/@adodud">
+<!--     <a href="https://www.youtube.com/@adodud">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a>  -->
+        /> -->
+    </a> 
     <a href="https://github.com/DSadroaldo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelhas" 
