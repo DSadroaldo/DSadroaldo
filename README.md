@@ -17,12 +17,10 @@ sugerindo conhecimento e a melhor experiência na
 tomada de decisão.
 
 <p align="left">
-<div dir="auto">
-    <a href="https://www.linkedin.com/in/adroaldo-pereira-2a9876140/" rel="nofollow"><img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+   <a href="https://www.linkedin.com/in/adroaldo-pereira-2a9876140/" rel="nofollow"><img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 </ 
-    <a href="https://wa.me/5548999335365?text=Ol%C3%A1+Adro%2C+vim+pelo+seu+GitHub." rel="nofollow"><img src="https://camo.githubusercontent.com/904b9a232fa355dadbfaf51b241395f305f1e0110cb2967df18d2daf875faeec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
-</
-</div>
+<!--    <a href="https://wa.me/5548999335365?text=Ol%C3%A1+Adro%2C+vim+pelo+seu+GitHub." rel="nofollow"><img src="https://camo.githubusercontent.com/904b9a232fa355dadbfaf51b241395f305f1e0110cb2967df18d2daf875faeec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
+</ -->
     <a href="https://github.com/DSadroaldo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelhas" 
