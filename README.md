@@ -142,3 +142,14 @@ tomada de decisão.
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSadroaldo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
+
+
+<img 
+   margin:20px
+   align="left"
+   alt="activity-graph graph"
+   height="273"
+   style="padding-right: 10px;" 
+   src="https://github-readme-activity-graph.vercel.app/graph?username=DSadroaldo&radius=16&theme=dracula&area=true&order=5"    
+/>
+
